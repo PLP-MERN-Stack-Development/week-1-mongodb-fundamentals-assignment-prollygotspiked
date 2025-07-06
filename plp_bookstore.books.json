@@ -1,0 +1,104 @@
+[{
+  "_id": {
+    "$oid": "684c075209ef5fd10b9d1be7"
+  },
+  "title": "To Kill a Mockingbird",
+  "author": "Harper Lee",
+  "genre": "Fiction",
+  "published_year": 1960,
+  "price": 12.99,
+  "in_stock": true,
+  "pages": 336,
+  "publisher": "J. B. Lippincott & Co."
+},
+{
+  "_id": {
+    "$oid": "684c075209ef5fd10b9d1be8"
+  },
+  "title": "Nineteen Eighty-Four",
+  "author": "George Orwell",
+  "genre": "Dystopian",
+  "published_year": 1949,
+  "price": 10.99,
+  "in_stock": true,
+  "pages": 328,
+  "publisher": "Secker & Warburg"
+},
+{
+  "_id": {
+    "$oid": "684c075209ef5fd10b9d1be9"
+  },
+  "title": "The Great Gatsby",
+  "author": "F. Scott Fitzgerald",
+  "genre": "Fiction",
+  "published_year": 1925,
+  "price": 9.99,
+  "in_stock": true,
+  "pages": 180,
+  "publisher": "Charles Scribner's Sons"
+},
+{
+  "_id": {
+    "$oid": "684c075209ef5fd10b9d1bea"
+  },
+  "title": "Brave New World",
+  "author": "Aldous Huxley",
+  "genre": "Dystopian",
+  "published_year": 1932,
+  "price": 11.5,
+  "in_stock": false,
+  "pages": 311,
+  "publisher": "Chatto & Windus"
+},
+{
+  "_id": {
+    "$oid": "684c075209ef5fd10b9d1beb"
+  },
+  "title": "The Hobbit",
+  "author": "J.R.R. Tolkien",
+  "genre": "Fantasy",
+  "published_year": 1937,
+  "price": 14.99,
+  "in_stock": true,
+  "pages": 310,
+  "publisher": "George Allen & Unwin"
+},
+{
+  "_id": {
+    "$oid": "684c075209ef5fd10b9d1bec"
+  },
+  "title": "Pride and Prejudice",
+  "author": "Jane Austen",
+  "genre": "Romance",
+  "published_year": 1813,
+  "price": 7.99,
+  "in_stock": true,
+  "pages": 432,
+  "publisher": "T. Egerton, Whitehall"
+},
+{
+  "_id": {
+    "$oid": "684c075209ef5fd10b9d1bed"
+  },
+  "title": "Moby Dick",
+  "author": "Herman Melville",
+  "genre": "Adventure",
+  "published_year": 1851,
+  "price": 12.5,
+  "in_stock": false,
+  "pages": 635,
+  "publisher": "Harper & Brothers"
+},
+{
+  "_id": {
+    "$oid": "684c075209ef5fd10b9d1bee"
+  },
+  "title": "Wuthering Heights",
+  "author": "Emily Brontë",
+  "genre": "Gothic Fiction",
+  "published_year": 1847,
+  "price": 9.99,
+  "in_stock": true,
+  "pages": 342,
+  "publisher": "Thomas Cautley Newby"
+}]
